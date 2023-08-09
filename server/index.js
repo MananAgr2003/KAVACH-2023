@@ -220,6 +220,15 @@ app.post('/submit', async (req, res) => {
     res.status(500).json({ error: 'Internal server error' });
   }
 });
+
+app.get('/retrieve', async (req, res) => {
+  try {
+    const retrievedData = await AadharData.find(); // Fetch all documents from the collection
+    res.status(200).json({ data: retrievedData });
+  } catch (error) {
+    res.status(500).json({ error: 'Internal server error' });
+  }
+});
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });

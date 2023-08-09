@@ -50,8 +50,11 @@ const FloatingMenu = () => {
         onPress={() => handleNavigate("Chatbot")}
       >
         <FontAwesome name="comments"  style={styles.icon} />
-        <Text style={styles.label}>Chatbot</Text>
+        <Text style={styles.label}>FAQ</Text>
       </TouchableOpacity>
+      <TouchableOpacity
+      style={[styles.menuItem,{left:16}]}
+      onPress={()=>handleNavigate("Questions")}></TouchableOpacity>
       <TouchableOpacity
         style={styles.menuItem}
         onPress={handleLogout}

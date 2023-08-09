@@ -5,22 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b98c4399-d1f8-48db-923d-8f609ec75af2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/navigation/userStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/userStack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/Homescreen/Botmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Homescreen/Botmenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Message.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Message.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Message_header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Message_header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/News.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Phone.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Phone.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Upi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Upi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/Url.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Url.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/report_url.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/report_url.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\agraw\.android\avd\Nexus_6_API_28.avd]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,6 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -112,5 +114,17 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="223" y="63" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1691506629455" />
+    <state x="93" y="93" width="1350" height="630" key="AVDManager" timestamp="1691547096410">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="AVDManager/0.0.1536.816@0.0.1536.816" timestamp="1691547096410" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1691546563592">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1691546563592" />
+    <state x="277" y="53" key="SettingsEditor" timestamp="1691542822221">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1691542822221" />
   </component>
 </project>

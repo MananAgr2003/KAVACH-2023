@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Scanner from '../screens/scanner';
 import News from '../screens/News';
+// import Questions from '../screens/Questions'
 
 import Contact from '../screens/Contact';
 import UserData from '../screens/UserData';
@@ -44,6 +45,18 @@ function UserStack() {
             headerTitleAlign: 'center',
           }}
         />
+
+       {/* <Stack.Screen
+          name="Questions"
+          component={Questions}
+          options={{
+            headerTitleStyle: {
+              fontSize: 20,
+            },
+            headerTitleAlign: 'center',
+          }}
+        /> */}
+        
 
         <Stack.Screen 
         name='Report_url'
